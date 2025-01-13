@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Homework 1 files
+homework1/corpora/
+*.tar.gz
+homework1/words_th.txt
+homework1/wandb/
+homework1/checkpoints/
+homework1/HW1_2_Neural_Network_Tokenization_to_Student_2024.ipynb - Colab.pdf
