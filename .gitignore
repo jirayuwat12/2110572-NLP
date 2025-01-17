@@ -170,6 +170,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+.obsidian/
 
 # Homework 1 files
 homework1/corpora/
@@ -178,3 +179,15 @@ homework1/words_th.txt
 homework1/wandb/
 homework1/checkpoints/
 homework1/HW1_2_Neural_Network_Tokenization_to_Student_2024.ipynb - Colab.pdf
+
+# Homework 2 files
+homework2/BEST2010
+homework2/BEST2010.zip
+homework2/log/
+homework2/tokenized_wiki_sample.csv
+homework2/*.txt
+homework2/*.jsonl
+homework2/*.model
+homework2/*.vocab
+homework2/*.csv
+homework2/lightning_logs/
