@@ -1,0 +1,4 @@
+*.ttf
+wandb/
+hw3.1_attention/
+mp_name_th_en.csv
